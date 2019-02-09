@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StudentProj1</string>
+    <string name="teacher_preference">teacher_preference</string>
+    <string name="teacher_name">teacher_name</string>
+    <string name="teacher_subject">teacher_subject</string>
+    <string name="teacher_email">teacher_email</string>
+    <string name="teacher_id">teacher_id</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

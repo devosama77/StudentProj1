@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "171850955759",
+    "firebase_url": "https://teacher1-cf410.firebaseio.com",
+    "project_id": "teacher1-cf410",
+    "storage_bucket": "teacher1-cf410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171850955759:android:dd7c0f81e14d32e4",
+        "android_client_info": {
+          "package_name": "com.example.samy.studentproj1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171850955759-5k58a72v5g0l0bu356thsvsi5roqjp9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOYkM4AOrWWfaBwSFSDoFHI-1iveLXDz8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171850955759:android:811ca4391a45e086",
+        "android_client_info": {
+          "package_name": "com.example.samy.teacherproj1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171850955759-5k58a72v5g0l0bu356thsvsi5roqjp9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOYkM4AOrWWfaBwSFSDoFHI-1iveLXDz8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

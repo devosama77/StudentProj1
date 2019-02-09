@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+   <item android:title="Teachers"
+       app:showAsAction="never"
+       android:id="@+id/toolbar_main_teachers"
+       ></item>
+    <item android:title="Questions"
+        android:id="@+id/toolbar_main_questions"
+        app:showAsAction="never">
+    </item>
+
+    <item android:title="login"
+        android:id="@+id/toolbar_menu_login"
+        app:showAsAction="never">
+
+    </item>
+</menu>
